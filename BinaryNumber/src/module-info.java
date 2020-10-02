@@ -1,0 +1,3 @@
+module BinaryNumber {
+	exports Binary;
+}
